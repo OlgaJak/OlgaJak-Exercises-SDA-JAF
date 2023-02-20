@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted&#10;added Task3&#10;added some classes, awaiting Square fulfillment">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task3/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task3/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Task3/Task 3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Task3/Task 3.txt" afterDir="false" />
-    </list>
+    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted&#10;added Task3&#10;added some classes, awaiting Square fulfillment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676883155296</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted&#10;added Task3&#10;added some classes, awaiting Square fulfillment">
+      <created>1676893348221</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676893348221</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted&#10;added Task3&#10;added some classes, awaiting Square fulfillment">
+      <created>1676893484565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676893484565</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
