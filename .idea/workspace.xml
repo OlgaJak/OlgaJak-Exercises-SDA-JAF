@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task2&#10;Task2 done hopefully&#10;comments deleted" />
+    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted">
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task3/Task 3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,11 +44,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task3" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task1" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\JAFCExercise" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\Generics" />
-      <recent name="C:\Users\legki\IdeaProjects\Exercises\src\Collections" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676878439888</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted">
+      <created>1676878500442</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676878500442</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +114,7 @@
     <MESSAGE value="added Task2&#10;@Override to look again" />
     <MESSAGE value="added Task2&#10;Task2 done hopefully" />
     <MESSAGE value="added Task2&#10;Task2 done hopefully&#10;comments deleted" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Task2&#10;Task2 done hopefully&#10;comments deleted" />
+    <MESSAGE value="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted" />
   </component>
 </project>

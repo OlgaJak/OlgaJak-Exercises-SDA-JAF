@@ -1,0 +1,49 @@
+SHAPE class
+Implement the Shape class. It should contain:
+  colour information //ok
+  information if colour should fill a shape //ok
+  non-arguments constructor which will set: the color field to unknown and isFilled field to false //ok
+  two-arguments constructor: colour, is Filled //ok
+  getter methods which will be responsible for returning declared fields //ok
+  setter methods which will be responsible for setting declared fields //ok
+  toString method which should return the following information: Shape with colour of ? and filled/NotFilled, where ? is
+   a placeholder for the colour and the filled/not filled info should be returned depending on the isFilled field //ok
+
+
+CIRCLE class
+Implement the Circle class. It should extend the Shape class. Implementation
+should meet the below criteria:
+  information about the radius value
+  non-arguments constructor which will set: the colour field value to unknown,
+  the isFilled field value to false and the radius field value to 1
+  three-arguments constructor: color , isFilled , radius
+  getter methods which will be responsible for returning the radius value
+  setter methods which will be responsible for setting the radius value
+  getArea method which will be responsible for calculating the surface area
+  getPerimeter method which will be responsible for calculating the circuit
+  toString method which should return the following information: Circle with radius=? which is a subclass off y , where ? is a placeholder for
+   the radius value and the y info should be a result of the toString
+   execution from the base class
+
+RECTANGLE class
+Implmenent the Rectangle class. It should extend the Shape class
+Implementation should meet the below criteria:
+  information about the width and length value as a double type
+  non-arguments constructor which will set: the color field value to unknown
+   the isFilled field value to false and the width and the length field value to 1
+  four-arguments constructor: color , isFilled , width i length
+  getter methods which will be responsible for returning the width and length value
+  setter methods which will be responsible for setting the width and
+  length value
+  getArea method which will be responsible for calculating the surface area
+  getPerimeter method which will be responsible for calculating the circuit
+  toString method which should return the following information:
+   Rectangle with width=? and length=? which is a subclass off y ,
+   where ? is a placeholder for the width and length value accordingly and the
+   y info should be a result of the toString execution from the base class
+
+SQUARE class
+Implement the Square class which will extend the Rectangle class. It should
+not add any new field or feature, but it should force square behaviour on the base class methods.
+
+Please provide an example usage of above implementation.
