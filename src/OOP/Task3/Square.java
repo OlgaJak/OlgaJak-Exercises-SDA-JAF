@@ -1,8 +1,8 @@
 package OOP.Task3;
 
 public class Square extends Rectangle {
-    public Square(String colour, boolean isFilled, double width, double length) {
-        super(colour, isFilled, width, length);
+    public Square(String colour, boolean isFilled, double size) {
+        super(colour, isFilled, size, size);
     }
 
     @Override

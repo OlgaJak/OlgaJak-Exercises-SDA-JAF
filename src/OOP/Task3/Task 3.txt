@@ -45,6 +45,6 @@ Implementation should meet the below criteria:
 
 SQUARE class
 Implement the Square class which will extend the Rectangle class. It should                         //ok
-not add any new field or feature, but it should force square behaviour on the base class methods.   //????????
+not add any new field or feature, but it should force square behaviour on the base class methods.   //ok
 
 Please provide an example usage of above implementation.

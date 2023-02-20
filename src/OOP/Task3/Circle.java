@@ -31,6 +31,6 @@ public class Circle extends Shape{
 
     @Override
     public String toString() {
-        return String.format("Circle with radius=%d which is subclass off %s", radiusValue, super.toString());
+        return String.format("Circle with radius= %d which is subclass off %s", radiusValue, super.toString());
     }
 }

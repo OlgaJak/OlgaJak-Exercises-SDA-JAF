@@ -32,7 +32,7 @@ public class Shape {
 
     @Override  //????????
     public String toString() {
-        return String.format("Shape with colour of %s and %s",colour,isFilled ? "filled" : "NotFilled");
+        return String.format("Shape with colour of %s and %s",colour,isFilled ? "filled" : "not filled");
     }
 
 }
