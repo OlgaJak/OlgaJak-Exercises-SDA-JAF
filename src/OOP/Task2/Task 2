@@ -7,7 +7,7 @@ two-arguments constructor: String name , String address //ok
 getter methods which will be responsible for returning name , address fields values //ok
 setter methods which will be responsible for setting name , address fields values //ok
 toString method which should return string in the following format: ?->? ,where ? is the name and address value
-accordingly       //not ok
+accordingly       //ok
 
 Student class
 Implement the Student class. It should extend the Person class. //ok
