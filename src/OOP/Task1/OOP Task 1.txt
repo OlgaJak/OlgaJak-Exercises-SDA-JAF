@@ -1,0 +1,25 @@
+TASK 1
+Point2D class
+Implement the Point2D class. It should contain:
+two float fields : x , y //ok
+non-arguments constructor which will set x , y fields to 0 //ok
+two-arguments constructor: float x , float y //ok
+getter methods which will be responsible for returning x , y fields values //ok
+getXY method which will return x , y values as two-element array //ok
+setter methods which will be responsible for setting x , y fields values //ok
+setXY method which will be responsible for setting x and y //ok
+toString method which should return string in the following format: (x,
+y)//ok
+
+Point3D class
+Using the Point2D class implement the Point3D class. It should extend the //ok
+Point2D class. It should contain:
+private float field: z  //ok
+three-arguments constructor: float x , float y , float z //ok
+getter method which will be responsible for returning the z field value  //ok
+getXYZ method which will return x , y , z values as three-element array //ok
+setter method which will be responsible for setting the z field value //ok
+setXYZ method which will be responsible for setting x , y , z  //ok
+toString method which should return string in the following format: (x,    //ok
+y, z)
+Please provide an example usage of above implementation

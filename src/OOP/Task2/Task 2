@@ -1,0 +1,31 @@
+Task 2
+Person class
+Implement the Person abstract class. It should contain:  //ok
+two String fields: name, address                      //ok
+non-arguments constructor which will set name , address fields as empty strings //ok
+two-arguments constructor: String name , String address //ok
+getter methods which will be responsible for returning name , address fields values //ok
+setter methods which will be responsible for setting name , address fields values //ok
+toString method which should return string in the following format: ?->? ,where ? is the name and address value
+accordingly       //ok
+
+Student class
+Implement the Student class. It should extend the Person class. //ok
+Implementation should meet the below criteria:
+three fields:type of study, year of study, study price     //ok
+three-arguments constructor: type of study, year of study, study price //ok
+getter methods which will be responsible for returning declared //ok
+setter methods which will be responsible for setting declared //ok
+toString method which should return details information about a student //ok
+
+
+Staff class
+Implement the Lecturer class. It should extend the Person class. //ok
+Implementation should meet the below criteria:
+two fields: specialization, salary //ok
+two argument constructor: specialization,salary //ok
+getter methods which will be responsible for returning declared fields //ok
+setter methods which will be responsible for setting declared fields   //ok
+toString method which should return details information about a lecturer
+
+Please provide an example usage of the implementation!!!!!!!

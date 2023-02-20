@@ -1,0 +1,8 @@
+Task 4
+
+Create a class that will behave like a library for the following types of media:
+   books
+   newspapers
+   movies
+
+Please provide a solution for generic types. For data collection, use any array or Collection API class
