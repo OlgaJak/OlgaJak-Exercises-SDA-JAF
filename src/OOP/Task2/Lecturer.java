@@ -28,7 +28,7 @@ public class Lecturer extends Person {
 
 
     @Override
-    public String toString() {            //need to add name and address
+    public String toString() {
         return "Lecturer " + super.toString() +
                 " specialization: " + specialization +
                 ", salary = " + salary +

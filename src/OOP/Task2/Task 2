@@ -16,7 +16,7 @@ three fields:type of study, year of study, study price     //ok
 three-arguments constructor: type of study, year of study, study price //ok
 getter methods which will be responsible for returning declared //ok
 setter methods which will be responsible for setting declared //ok
-toString method which should return details information about a student //not ok
+toString method which should return details information about a student //ok
 
 
 Staff class
@@ -26,6 +26,6 @@ two fields: specialization, salary //ok
 two argument constructor: specialization,salary //ok
 getter methods which will be responsible for returning declared fields //ok
 setter methods which will be responsible for setting declared fields   //ok
-toString method which should return details information about a lecturer //not ok
+toString method which should return details information about a lecturer //ok
 
-Please provide an example usage of the implementation!!!!!!!
+Please provide an example usage of the implementation //ok
