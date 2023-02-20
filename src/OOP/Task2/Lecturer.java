@@ -1,11 +1,11 @@
 package OOP.Task2;
 
 public class Lecturer extends Person {
-    public String specialization;
+    private String specialization;
     private int salary;
 
     public Lecturer(String specialization,int salary){
-        this.specialization =specialization;
+        this.specialization = specialization;
         this.salary = salary;
     }
 
@@ -31,6 +31,6 @@ public class Lecturer extends Person {
         return "Lecturer{" +
                 "specialization='" + specialization + '\'' +
                 ", salary=" + salary +
-                '}';
+                "} " + super.toString();
     }
 }

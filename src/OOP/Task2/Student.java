@@ -1,11 +1,13 @@
 package OOP.Task2;
 
-public class student extends Person{
+public class Student extends Person{
     private String typeOfStudy;
     private int yearOfStudy;
     private int priceOfStudy;
 
-    public student(String typeOfStudy, int  yearOfStudy, int priceOfStudy){
+
+    public Student(String name, String address, String typeOfStudy, int  yearOfStudy, int priceOfStudy){
+        super(name, address);
         this.typeOfStudy = typeOfStudy;
         this.yearOfStudy = yearOfStudy;
         this.priceOfStudy = priceOfStudy;
@@ -34,8 +36,13 @@ public class student extends Person{
         this.priceOfStudy = priceOfStudy;
     }
 
-    public String toString(){
-        return String.format("%s->%s->%s",typeOfStudy,yearOfStudy,priceOfStudy);
-    }
 
+    @Override
+    public String toString() {
+        return "student{" +
+                "typeOfStudy='" + typeOfStudy + '\'' +
+                ", yearOfStudy=" + yearOfStudy +
+                ", priceOfStudy=" + priceOfStudy +
+                "} " + super.toString();
+    }
 }

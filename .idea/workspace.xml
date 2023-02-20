@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task2">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/BookService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Collections/CollectionsTask5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericsTask4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JAFCExercise/JAFCExerciseTask5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task1/OOP Task 1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task1/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task1/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task2/Lecturer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task2/Task 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task2/student.java" afterDir="false" />
-    </list>
+    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +56,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676709225995</updated>
     </task>
+    <task id="LOCAL-00001" summary="added Task2">
+      <created>1676875211121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676875211121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
