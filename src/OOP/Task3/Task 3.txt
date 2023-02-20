@@ -11,39 +11,40 @@ Implement the Shape class. It should contain:
 
 
 CIRCLE class
-Implement the Circle class. It should extend the Shape class. Implementation
+Implement the Circle class. It should extend the Shape class. Implementation //ok
 should meet the below criteria:
-  information about the radius value
-  non-arguments constructor which will set: the colour field value to unknown,
-  the isFilled field value to false and the radius field value to 1
-  three-arguments constructor: color , isFilled , radius
-  getter methods which will be responsible for returning the radius value
-  setter methods which will be responsible for setting the radius value
-  getArea method which will be responsible for calculating the surface area
-  getPerimeter method which will be responsible for calculating the circuit
-  toString method which should return the following information: Circle with radius=? which is a subclass off y , where ? is a placeholder for
-   the radius value and the y info should be a result of the toString
+  information about the radius value //ok
+  non-arguments constructor which will set: the colour field value to unknown,//ok
+  the isFilled field value to false and the radius field value to 1           //ok
+  three-arguments constructor: color , isFilled , radius                      //ok
+  getter methods which will be responsible for returning the radius value     //ok
+  setter methods which will be responsible for setting the radius value       //ok
+  getArea method which will be responsible for calculating the surface area   //ok
+  getPerimeter method which will be responsible for calculating the circuit   //ok
+  toString method which should return the following information: Circle with
+  radius=? which is a subclass off y , where ? is a placeholder for
+   the radius value and the y info should be a result of the toString          //ok
    execution from the base class
 
 RECTANGLE class
-Implmenent the Rectangle class. It should extend the Shape class
+Implmenent the Rectangle class. It should extend the Shape class                    //ok
 Implementation should meet the below criteria:
-  information about the width and length value as a double type
-  non-arguments constructor which will set: the color field value to unknown
-   the isFilled field value to false and the width and the length field value to 1
-  four-arguments constructor: color , isFilled , width i length
-  getter methods which will be responsible for returning the width and length value
-  setter methods which will be responsible for setting the width and
+  information about the width and length value as a double type                     //ok
+  non-arguments constructor which will set: the color field value to unknown        //ok
+   the isFilled field value to false and the width and the length field value to 1  //ok
+  four-arguments constructor: color , isFilled , width i length                     //ok
+  getter methods which will be responsible for returning the width and length value //ok
+  setter methods which will be responsible for setting the width and                //ok
   length value
-  getArea method which will be responsible for calculating the surface area
-  getPerimeter method which will be responsible for calculating the circuit
-  toString method which should return the following information:
+  getArea method which will be responsible for calculating the surface area         //ok
+  getPerimeter method which will be responsible for calculating the circuit         //ok
+  toString method which should return the following information:                    //ok
    Rectangle with width=? and length=? which is a subclass off y ,
    where ? is a placeholder for the width and length value accordingly and the
    y info should be a result of the toString execution from the base class
 
 SQUARE class
-Implement the Square class which will extend the Rectangle class. It should
+Implement the Square class which will extend the Rectangle class. It should                         //ok
 not add any new field or feature, but it should force square behaviour on the base class methods.
 
 Please provide an example usage of above implementation.
