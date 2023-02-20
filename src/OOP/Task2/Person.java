@@ -1,6 +1,6 @@
 package OOP.Task2;
 
-public abstract class Person {
+public class Person {
     private String name;
     private String address;
 
@@ -31,9 +31,6 @@ public abstract class Person {
 
     @Override
     public String toString() {
-        return "Person{" +
-                "name='" + name + '\'' +
-                ", address='" + address + '\'' +
-                '}';
+        return String.format("%s->%s",name,address);
     }
 }

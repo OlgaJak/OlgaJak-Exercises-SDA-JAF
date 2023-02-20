@@ -39,10 +39,10 @@ public class Student extends Person{
 
     @Override
     public String toString() {
-        return "student{" +
-                "typeOfStudy='" + typeOfStudy + '\'' +
-                ", yearOfStudy=" + yearOfStudy +
-                ", priceOfStudy=" + priceOfStudy +
-                "} " + super.toString();
+        return "Student " + super.toString()+
+                ", type of study = " + typeOfStudy + '\'' +
+                ", year of study = " + yearOfStudy +
+                ", price of study = " + priceOfStudy +
+                ".";
     }
 }
