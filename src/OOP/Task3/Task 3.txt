@@ -27,7 +27,7 @@ should meet the below criteria:
    execution from the base class
 
 RECTANGLE class
-Implmenent the Rectangle class. It should extend the Shape class                    //ok
+Implement the Rectangle class. It should extend the Shape class                    //ok
 Implementation should meet the below criteria:
   information about the width and length value as a double type                     //ok
   non-arguments constructor which will set: the color field value to unknown        //ok
@@ -47,4 +47,4 @@ SQUARE class
 Implement the Square class which will extend the Rectangle class. It should                         //ok
 not add any new field or feature, but it should force square behaviour on the base class methods.   //ok
 
-Please provide an example usage of above implementation.
+Please provide an example usage of above implementation. //ok

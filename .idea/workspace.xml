@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="fixing square">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task3/Task3.java" afterDir="false" />
+    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="fixing square constructor">
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Task 4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Task3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Task3/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/OOP/Task3/Task 3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Task3/Task 3.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,31 +29,41 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2Lu7gXPuQu05UiaeB95U0l9ygnD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/legki/IdeaProjects/Exercises/src/OOP/Task4"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;TEXT&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task4" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task3" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task1" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\JAFCExercise" />
-      <recent name="C:\Users\legki\IdeaProjects\Exercises\src\Generics" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="OOP.Task4" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -131,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676896018767</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fixing square constructor">
+      <created>1676896863063</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676896863063</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +176,7 @@
     <MESSAGE value="added Task2&#10;Task2 done hopefully&#10;comments deleted&#10;comment deleted&#10;added Task3&#10;added some classes, awaiting Square fulfillment" />
     <MESSAGE value="added Task3&#10;added some classes, awaiting Square fulfillment" />
     <MESSAGE value="fixing square" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing square" />
+    <MESSAGE value="fixing square constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing square constructor" />
   </component>
 </project>

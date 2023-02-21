@@ -1,0 +1,10 @@
+Modify implementation prepared as a scope of task 3. Refactor the following
+functionality:
+make the Shape class abstract                                    //ok
+change the Shape class access modifiers to protected             //ok
+add two abstract methods: getArea and getPerimeter               //ok
+
+Each class which is extending the Shape class directly/indirectly should      //ok
+override abstract method from the base class.                                 //ok
+
+Please provide an example usage of above implementation           //ok
