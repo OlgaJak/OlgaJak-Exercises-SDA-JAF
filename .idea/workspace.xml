@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="fixing square constructor">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Task 4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task4/Task4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/Task3/Task 3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Task3/Task 3.txt" afterDir="false" />
+    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task 4">
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task5/Task 5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676896863063</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added Task 4">
+      <created>1676974620403</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676974620403</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -177,6 +177,7 @@
     <MESSAGE value="added Task3&#10;added some classes, awaiting Square fulfillment" />
     <MESSAGE value="fixing square" />
     <MESSAGE value="fixing square constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing square constructor" />
+    <MESSAGE value="added Task 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Task 4" />
   </component>
 </project>
