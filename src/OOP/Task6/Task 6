@@ -1,0 +1,32 @@
+Implement the Movable interface which will contain a definition of common methods for movablePoint and movableCircle
+classes.
+void moveUp()
+void moveDown()
+void moveLeft()
+void moveRight()
+
+MovablePoint class
+The MovablePoint class should implement the Movable interface and should
+contain 4 fields: int:x,y,xSpeed,ySpeed. The x,y fields should define the coordinates of point
+and the xSpeed, ySpeed fields should determine how much yhe appropriate coordinates should change.
+
+the moveUp() and the moveDown() method should increase/decrease the
+y coordinate by provided ySpeed value
+
+the moveLeft() and the moveRight() method should increase/decrease
+the x coordinate by provided xSpeed value
+
+
+MovableCircle class
+The MovableCircle class should implement the Movable interface and should
+contain (as a composition) instance of MovablePoint class. It should contain
+fields necessary to define circle radius.
+
+the moveUp() and the moveDown() method should increase/decrease the
+y coordinate from MovablePoint instance by provided ySpeed value
+
+the moveLeft and the moveRight() method should increase/decrease the
+x coordinate from MovablePoint instance by provided xSpeed value
+
+Please provide an example usage of above implementation. Please consdier to
+present polymorphism as well
