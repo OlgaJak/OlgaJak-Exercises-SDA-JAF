@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task 5 solution">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task6/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task6/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task6/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task6/Task 6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task6/Task6.java" afterDir="false" />
+    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task 6 solution">
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task7/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task7/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task7/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task7/ResizableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task7/Task 7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task7/Task7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677048102994</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added Task 6 solution">
+      <created>1677051340148</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677051340148</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -202,6 +210,7 @@
     <MESSAGE value="added Task 4" />
     <MESSAGE value="added Task 5" />
     <MESSAGE value="added Task 5 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Task 5 solution" />
+    <MESSAGE value="added Task 6 solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Task 6 solution" />
   </component>
 </project>

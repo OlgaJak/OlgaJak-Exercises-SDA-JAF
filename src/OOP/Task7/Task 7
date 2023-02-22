@@ -1,0 +1,20 @@
+Implement the GeometricObject interface which should contain common
+behaviours definition for each sub class:
+double getPerimeter();
+double getArea();
+
+Circle class
+The Circle class should implement the GeometricObject interface and it
+should contain the radius field. Methods from Geometric interface should be implemented
+according to the mathematical rules.
+
+Resizable interface
+The Resizable interface should declare the resize(int percent) method
+which will be responsible for rescaling objects which are implementing created
+interface.
+
+ResizableCircle class
+The ResizableCircle class should implement Resizable interface. The
+resize method from interface should reduce the radius of the circle in
+percentage.
+Please provide an example usage of above implementation.
