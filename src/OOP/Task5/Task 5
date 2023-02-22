@@ -1,13 +1,12 @@
-Implement the Line class which will contain (as a composition) the instance of
-two Point2D object from task 1. Those points should be the start and end point
-of the line. In addition, this class should implement:
-two-arguments constructor: begin point, end point
-four-arguments constructor accepting 4 parameters: coordinates of the start
-and end point
-getter method which will be responsible for returning start and end points
-setter method which will be responsible for setting start and end points
-the method responsible for calculating the length of the line based on the
+Implement the Line class which will contain (as a composition) the instance of two Point2D object from task 1. //ok
+Those points should be the start and end point of the line. In addition, this class should implement:      //ok
+two-arguments constructor: begin point, end point      //ok
+four-arguments constructor accepting 4 parameters: coordinates of the start  //ok
+and end point                                                                //ok
+getter method which will be responsible for returning start and end points   //ok
+setter method which will be responsible for setting start and end points     //ok
+the method responsible for calculating the length of the line based on the   //ok
 set points
-the method responsible for returning the coordinates of the point being the
+the method responsible for returning the coordinates of the point being the  //ok
 center of the created line
 Please provide an example usage of above implementation

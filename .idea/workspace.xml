@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task 4">
-      <change afterPath="$PROJECT_DIR$/src/OOP/Task5/Task 5" afterDir="false" />
+    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task 5">
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task5/Line.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task5/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task5/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/Task5/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Task5/Task 5" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Task5/Task 5" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +41,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/legki/IdeaProjects/Exercises/src/OOP/Task4"
+    "last_opened_file_path": "C:/Users/legki/IdeaProjects/Exercises/src/OOP/Task5"
   },
   "keyToStringList": {
     "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
@@ -46,16 +51,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task5" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task5" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task4" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task3" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP\Task1" />
       <recent name="C:\Users\legki\IdeaProjects\Exercises\src\OOP" />
-      <recent name="C:\Users\legki\IdeaProjects\Exercises\src\JAFCExercise" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="OOP.Task5" />
       <recent name="OOP.Task4" />
     </key>
   </component>
@@ -152,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676974620403</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="added Task 5">
+      <created>1676974846539</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676974846539</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +192,7 @@
     <MESSAGE value="fixing square" />
     <MESSAGE value="fixing square constructor" />
     <MESSAGE value="added Task 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Task 4" />
+    <MESSAGE value="added Task 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Task 5" />
   </component>
 </project>
