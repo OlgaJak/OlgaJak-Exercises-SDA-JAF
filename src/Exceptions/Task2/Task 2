@@ -1,0 +1,19 @@
+BookRepository class
+Create the BookRepository class, which will be responsible for:
+adding Book objects
+removing Book objects
+searching for objects of the Book type with the indicated name
+searching for objects of the Book type with the indicated id
+removing objects of the Book type based on the provided id
+
+Book class
+The Book class should include the following fields:
+id
+title
+author
+year of release
+
+NoBookFoundException
+In case of lack of searched results an exception should be thrown. This
+exception should accept the String parameter object with information about
+which elements could not be found.
