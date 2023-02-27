@@ -1,12 +1,12 @@
 BookRepository class
 Create the BookRepository class, which will be responsible for:
-adding Book objects
-removing Book objects
+adding Book objects //ok
+removing Book objects //ok
 searching for objects of the Book type with the indicated name
 searching for objects of the Book type with the indicated id
 removing objects of the Book type based on the provided id
 
-Book class
+Book class                                                      //ok
 The Book class should include the following fields:
 id
 title

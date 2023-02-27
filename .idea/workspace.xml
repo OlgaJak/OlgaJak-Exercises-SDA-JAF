@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task 7 solution">
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Task1/Task 1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Task2/Task 2" afterDir="false" />
+    <list default="true" id="3599f2c1-0649-4014-9f1d-e60bf3cab9fb" name="Changes" comment="added Task 1 solution">
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Task2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Task2/BookRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Task2/NoBookFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exceptions/Task2/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exceptions/Task2/Task 2" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exceptions/Task2/Task 2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +188,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677053919884</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="added Exception exercises">
+      <created>1677054393306</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677054393306</updated>
+    </task>
+    <task id="LOCAL-00018" summary="added Task 1 solution">
+      <created>1677058130806</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1677058130806</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +232,8 @@
     <MESSAGE value="added Task 5 solution" />
     <MESSAGE value="added Task 6 solution" />
     <MESSAGE value="added Task 7 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Task 7 solution" />
+    <MESSAGE value="added Exception exercises" />
+    <MESSAGE value="added Task 1 solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Task 1 solution" />
   </component>
 </project>
