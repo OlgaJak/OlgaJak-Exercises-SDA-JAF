@@ -5,4 +5,5 @@ Create a class that will behave like a library for the following types of media:
    newspapers
    movies
 
-Please provide a solution for generic types. For data collection, use any array or Collection API class
+Please provide a solution for generic types.
+For data collection, use any array or Collection API class
