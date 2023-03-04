@@ -1,0 +1,32 @@
+Validator interface:
+Create the Validator interface, which will include the boolean validate(T
+input) method.
+
+User class:
+Create the User class which will include:
+*Fields:
+  name
+  last name
+  age
+  login
+  password
+*default constructor
+*setter and get5ter methods
+*setter methods should accept as method parameters:
+    value for the field
+    and the Validator interface instance
+*setter methods should execute the validate method based on the instance of the transferred object.
+The parameter passed to the validate method should be the value of the argument
+
+Anonymous class:
+Instances of the Validator class should be implemented as anonymous class.
+Implementation should meet the below criteria:
+*name validation: the name cannot be empty or null, it should start with a
+capital letter
+*last name validation: the last name cannot be empty or null, it should start
+with a capital letter
+*age validation: the value should be between 0 and 150
+*login validation: the field value should contain 10 characters
+*password validation: it should contain the ! character
+
+Please present the solution described above on an example.
