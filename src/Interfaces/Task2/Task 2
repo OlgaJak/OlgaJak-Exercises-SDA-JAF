@@ -1,0 +1,20 @@
+Movie class:  //ok
+Create the Movie class which will cover fields:
+title
+director
+year of release
+genre
+distributor
+This class should contain a default constructor and
+getter and setter methods.
+Please consider creating toString method which will be responsible for returning info about a specific object.
+
+
+MovieCreator class:
+Create the static nested MovieCreator class.
+It should contain:
+class fields similar to Movie class
+methods which will be responsible for setting movie values.
+ Each method should return an object instance of the object for which the method is being called
+the creativeMovie method will create the instance of the Movie class. It will return as a method results
+
