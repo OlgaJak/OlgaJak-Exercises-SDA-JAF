@@ -2,6 +2,7 @@ Validator interface:
 Create the Validator interface, which will include the boolean validate(T
 input) method.
 
+
 User class:
 Create the User class which will include:
 *Fields:
@@ -17,6 +18,7 @@ Create the User class which will include:
     and the Validator interface instance
 *setter methods should execute the validate method based on the instance of the transferred object.
 The parameter passed to the validate method should be the value of the argument
+
 
 Anonymous class:
 Instances of the Validator class should be implemented as anonymous class.
